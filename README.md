@@ -51,3 +51,41 @@ Oscar Mhlongo
 IT Graduate | Software Development | Networking | CompTIA Network+ Certified
 
 Built as part of my journey in software development and technology.
+
+
+## Installation and Setup
+
+### Requirements
+
+- Python
+- A webcam
+- Git
+
+### Install Dependencies
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Oscar-Mhlongo-IT/snap-class-face-recognition.git
+cd snap-class-face-recognition
+```
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Running the Application
+
+Ensure the required database and face-encoding files are available locally and that the resource image paths match the code.
+
+Run the application:
+
+```bash
+python main.py
+```
+
+Press `q` to quit the application.
+
+**Note:** The database and face-encoding files are not included in this repository. You must generate or configure them locally before running the application.
