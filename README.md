@@ -18,10 +18,12 @@ The project demonstrates software development, face recognition, database integr
 ## Technologies
 
 - Python
-- Face Recognition
-- Computer Vision
-- Database
-- GUI Development
+- OpenCV — camera access and image processing
+- face_recognition — face recognition
+- cvzone — visual interface elements
+- NumPy — numerical operations
+- SQLite — student attendance database
+- Pickle — loading saved face encodings
 
 ## Project Structure
 
